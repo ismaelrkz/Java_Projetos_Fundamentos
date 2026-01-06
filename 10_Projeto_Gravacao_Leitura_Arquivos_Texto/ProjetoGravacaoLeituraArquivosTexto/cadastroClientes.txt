@@ -1,0 +1,60 @@
+1;Ana;São Paulo;011912345678
+2;Bruno;Rio de Janeiro;021923456789
+3;Carla;Belo Horizonte;031934567890
+4;Daniel;Curitiba;041945678901
+5;Eduarda;Florianópolis;048956789012
+6;Felipe;Porto Velho;069967890123
+7;Gabriela;Salvador;071978901234
+8;Henrique;Fortaleza;085989012345
+9;Isabela;Recife;081990123456
+10;Lucas;Manaus;092901234567
+1;Ana;São Paulo;011912345678
+2;Bruno;Rio de Janeiro;021923456789
+3;Carla;Belo Horizonte;031934567890
+4;Daniel;Curitiba;041945678901
+5;Eduarda;Florianópolis;048956789012
+6;Felipe;Porto Velho;069967890123
+7;Gabriela;Salvador;071978901234
+8;Henrique;Fortaleza;085989012345
+9;Isabela;Recife;081990123456
+10;Lucas;Manaus;092901234567
+1;Ana;São Paulo;011912345678
+2;Bruno;Rio de Janeiro;021923456789
+3;Carla;Belo Horizonte;031934567890
+4;Daniel;Curitiba;041945678901
+5;Eduarda;Florianópolis;048956789012
+6;Felipe;Porto Velho;069967890123
+7;Gabriela;Salvador;071978901234
+8;Henrique;Fortaleza;085989012345
+9;Isabela;Recife;081990123456
+10;Lucas;Manaus;092901234567
+1;Ana;São Paulo;011912345678
+2;Bruno;Rio de Janeiro;021923456789
+3;Carla;Belo Horizonte;031934567890
+4;Daniel;Curitiba;041945678901
+5;Eduarda;Florianópolis;048956789012
+6;Felipe;Porto Velho;069967890123
+7;Gabriela;Salvador;071978901234
+8;Henrique;Fortaleza;085989012345
+9;Isabela;Recife;081990123456
+10;Lucas;Manaus;092901234567
+1;Ana;São Paulo;011912345678
+2;Bruno;Rio de Janeiro;021923456789
+3;Carla;Belo Horizonte;031934567890
+4;Daniel;Curitiba;041945678901
+5;Eduarda;Florianópolis;048956789012
+6;Felipe;Porto Velho;069967890123
+7;Gabriela;Salvador;071978901234
+8;Henrique;Fortaleza;085989012345
+9;Isabela;Recife;081990123456
+10;Lucas;Manaus;092901234567
+1;Ana;São Paulo;011912345678
+2;Bruno;Rio de Janeiro;021923456789
+3;Carla;Belo Horizonte;031934567890
+4;Daniel;Curitiba;041945678901
+5;Eduarda;Florianópolis;048956789012
+6;Felipe;Porto Velho;069967890123
+7;Gabriela;Salvador;071978901234
+8;Henrique;Fortaleza;085989012345
+9;Isabela;Recife;081990123456
+10;Lucas;Manaus;092901234567
